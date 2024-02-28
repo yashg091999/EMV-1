@@ -1,0 +1,29 @@
+.form1{
+  width: 100%;
+  border: none;
+}
+
+.form2{
+  margin-top: 30px;
+  width: 30%;
+}
+
+.label1{
+  color: grey;
+}
+
+.text{
+  width: 30%;
+  border: none;
+  margin-top: 10px;
+}
+
+.text1{
+  margin-top: 50px;
+  margin-bottom: 40px;
+  width: 15%;
+}
+
+.footer{
+  position: sticky;
+}

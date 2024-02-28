@@ -1,0 +1,37 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  box-sizing: border-box;
+}
+
+.second{
+  margin-top: 60px;
+}
+
+.third{
+  
+  height: 50vh;
+}
+
+.third p{
+  color: #a29a9a;
+  font-size: 1.3rem;
+}
+
+.finance{
+  color: #709cdd;
+}
+
+.fourth{
+  height: 50vh;
+  margin-top: 60px;
+}
+
+.ul ul{
+  line-height: 30px;
+  font-size: 1.1rem;
+  color: #a29a9a;
+}
